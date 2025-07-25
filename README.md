@@ -1,20 +1,20 @@
 # Multimodal_LLMs
 Làm trên kaggle 
-🎯 Dự án 1: Image Captioning cơ bản (Sinh mô tả từ ảnh)
-✅ Dễ triển khai, nắm rõ kết nối hình ảnh – văn bản
-⚙️ Sử dụng mô hình có sẵn như BLIP hoặc LLaVA
+Dự án 1: Image Captioning cơ bản (Sinh mô tả từ ảnh)
 
-✅ Mục tiêu:
+Sử dụng mô hình có sẵn như BLIP hoặc LLaVA
+
+Mục tiêu:
 Nhập vào một ảnh → mô hình sinh ra mô tả bằng tiếng Việt hoặc tiếng Anh.
 
-🧰 Công cụ:
+Công cụ:
 Python + transformers + torch
 
 Mô hình: BLIP (Salesforce) hoặc blip-image-captioning-base từ Hugging Face
 
 Dataset: MS-COCO (hoặc dùng ảnh tùy chọn)
 
-📦 Output:
+Output:
 Web app nhỏ bằng Streamlit: Chọn ảnh → hiển thị caption mô tả
 
 <!-- 🎯 Dự án 2: Visual Question Answering (VQA)
